@@ -1,4 +1,6 @@
 ## Hi there 👋
+basic demo to create depository
+first day on github
 
 <!--
 **Jyotikadadi/jyotikadadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
